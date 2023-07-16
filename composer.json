@@ -1,0 +1,17 @@
+{
+    "name": "shita/projeto-php",
+    "autoload": {
+        "psr-4": {
+            "Shita\\ProjetoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Meena Misae",
+            "email": "meenahiwatashi@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    }
+}
